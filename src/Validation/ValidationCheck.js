@@ -8,6 +8,7 @@ const ValidationCheck = ({textLength}) => {
     return (
         <div>
             <p>{validationMessage}</p>
+            <p>hvhjvhjvh</p>
         </div>
     )
 }
